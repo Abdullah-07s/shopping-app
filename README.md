@@ -2,9 +2,6 @@
 
 A full-featured desktop shopping application built with **C# Windows Forms** and **SQL Server**. Features a modern dark-themed UI, product catalogue with search and category filters, shopping cart, checkout, order history, and user authentication.
 
-> **Course:** Object Oriented Programming (CS-1004) — FAST University NUCES  
-> **Student:** Abdullah Manzoor Mallick (22i-1103)
-
 ---
 
 ## ✨ Features
