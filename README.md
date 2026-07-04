@@ -120,15 +120,3 @@ Dark-themed modern interface built entirely in WinForms:
 ![.NET](https://img.shields.io/badge/.NET_6-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
-
-## 🎓 Course Info
-
-> **Course:** Object Oriented Programming (CS-1004)  
-> **University:** FAST University NUCES, Islamabad  
-> **Semester:** Spring 2023 (Semester 2)
-
----
-
-## 📄 License
-
-Educational use only.
